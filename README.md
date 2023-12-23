@@ -1,2 +1,3 @@
-# quickshop
- 
+# Starter
+
+A starter template.
